@@ -2,5 +2,5 @@ Hello git-it!
 
 for test changing
 
-for test jenkins 6
+for test jenkins 7
 
